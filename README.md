@@ -16,7 +16,6 @@ This project analyzes:
 - Machine learning models (Decision Tree, Logistic Regression, Random Forest) to classify misleading vs. non-misleading headlines.
 - Examination of feature importance to uncover which words and patterns influence detection most.
 
----
 
 ## Tech Stack
 - **Python**: primary programming language
@@ -25,7 +24,6 @@ This project analyzes:
 - **NLTK / regex**: text preprocessing and cleaning
 - **matplotlib, seaborn**: data visualization
 
----
 
 ## More Information
 - **Data**: Consists of a collection of COVID-19 related headlines labeled for misinformation.
